@@ -1,5 +1,5 @@
 # scrape-items-price
-###Description
+### Description
 - Scrape top 3 defined item's price in list of "search term / item name", aggregated by top sales.
 
 ## How it works for a single item
