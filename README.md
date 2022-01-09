@@ -11,8 +11,8 @@
 4. Check back the excel file (expected to have multiple new sheet correspond to the number of item name.
 
 ## Locate excel.file (xlsx) to change pathline
-### Line 21
+### Line 21 (to read)
 ![line21](/docs-image/line21.png)
 
-### Line 79
+### Line 79 (to write)
 ![line79](/docs-image/line79.png)
