@@ -7,5 +7,8 @@ Description
 ![How it works for a single item](/docs-image/scrapeeshopee.gif)
 
 ## Locate excel.file (xlsx) to change pathline
+### Line 21
 ![line21](/docs-image/line21.png)
+
+### Line 79
 ![line79](/docs-image/line79.png)
