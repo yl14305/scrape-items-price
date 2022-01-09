@@ -1,4 +1,4 @@
 # scrape-items-price
 
 ## Getting Started
-![How it works for a single item](scrapeeshopee.gif.)
+![How it works for a single item](scrapeeshopee.gif)
