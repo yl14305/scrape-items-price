@@ -11,11 +11,11 @@
 4. Check back the excel file (expected to have multiple new sheet correspond to the number of item name.
 
 ## Modules required
-beautifulsoup4==4.10.0
-openpyxl==3.0.7
-pandas==1.3.5
-selenium==4.1.0
-webdriver_manager==3.5.2
+beautifulsoup4==4.10.0 <br>
+openpyxl==3.0.7 <br>
+pandas==1.3.5 <br>
+selenium==4.1.0 <br>
+webdriver_manager==3.5.2 <br>
 You can also use requirements.txt to install the packages. How? Follow this [link].
 
 ## Locate excel.file (xlsx) to change pathline
