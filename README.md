@@ -16,7 +16,7 @@ openpyxl==3.0.7 <br>
 pandas==1.3.5 <br>
 selenium==4.1.0 <br>
 webdriver_manager==3.5.2 <br>
-You can also use requirements.txt to install the packages. How? Follow this [link].
+**You can also use requirements.txt to install the packages. How? Follow this [link].**
 
 ## Locate excel.file (xlsx) to change pathline
 ### Line 21 (to read)
