@@ -10,9 +10,19 @@
 3. Run the python script
 4. Check back the excel file (expected to have multiple new sheet correspond to the number of item name.
 
+## Modules required
+beautifulsoup4==4.10.0
+openpyxl==3.0.7
+pandas==1.3.5
+selenium==4.1.0
+webdriver_manager==3.5.2
+You can also use requirements.txt to install the packages. How? Follow this [link].
+
 ## Locate excel.file (xlsx) to change pathline
 ### Line 21 (to read)
 ![line21](/docs-image/line21.png)
 
 ### Line 79 (to write)
 ![line79](/docs-image/line79.png)
+
+[link]: https://stackoverflow.com/questions/7225900/how-to-install-packages-using-pip-according-to-the-requirements-txt-file-from-a
